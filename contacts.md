@@ -1,12 +1,9 @@
 ---
 layout: page
-title: 
-image:
-    feature: contact.jpg
+title: Contact
 ---
 
 
-  
   
   
 [email](mailto:yosoyjay@gmail.com) or [tweet](https://twitter.com/_yosoyjay)  
