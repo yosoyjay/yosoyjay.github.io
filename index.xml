@@ -3,7 +3,8 @@
 &lt;ul>
 &lt;li>&lt;a href="https://huggingface.co/spaces/axds/classify-fish-sounds/tree/main">Detect and Classify Grouper Sounds&lt;/a>: Detect and classify fish sounds from passive acoustic recordings using CNNs.&lt;/li>
 &lt;li>&lt;a href="https://spillanddrift.srv.axds.co">Bering Sea Drift and Spill Vessel&lt;/a>: Estimate oil spill risk to Alaskan shores from gounded vessels.&lt;/li>
-&lt;li>&lt;a href="https://s2s.srv.axds.co">S2S - Sea Ice Guidance&lt;/a>: Provide statistcally generated probabilistic sea ice guidance for the three-week to seasonal time scale.&lt;/li>
+&lt;li>&lt;a href="https://s2s.srv.axds.co">S2S - Sea Ice Guidance&lt;/a>: Provide statistically generated probabilistic sea ice guidance for the three-week to seasonal time scale.&lt;/li>
+&lt;li>&lt;a href="https://github.com/axiom-data-science/coral-spawning-detector">Coral Spawning Detector&lt;/a>: Develop CNN based detector to identify spawning coral in aquaria.&lt;/li>
 &lt;li>&lt;a href="https://osra.axds.co">Arctic Oil Spill Risk Assessment&lt;/a>: Provide estimates of risk to areas used for subsistance gathering from small &amp;ldquo;operational&amp;rdquo; oil spills.&lt;/li>
 &lt;li>&lt;a href="https://ifcb.caloos.org/dashboard">IFCB&lt;/a>: Develop classifiers and data pipelines for IFCB instrumentation to classify and derived statistics about observed harmful algal bloom species of interest.&lt;/li>
 &lt;/ul>
