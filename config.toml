@@ -1,4 +1,4 @@
-baseURL = 'http://jesse-lopez.com/'
+baseURL = 'https://jesse-lopez.com/'
 languageCode = 'en-us'
 title = 'Jesse Lopez'
 theme = "KeepIt"
