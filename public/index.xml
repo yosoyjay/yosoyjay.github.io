@@ -1,10 +1,44 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jesse Lopez</title>
-    <link>http://jesse-lopez.com/</link>
-    <description>Recent content on Jesse Lopez</description>
+    <title>Jesse Lopez on Jesse Lopez</title>
+    <link>https://jesse-lopez.com/</link>
+    <description>Recent content in Jesse Lopez on Jesse Lopez</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://jesse-lopez.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="https://jesse-lopez.com/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Projects</title>
+      <link>https://jesse-lopez.com/projects/</link>
+      <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://jesse-lopez.com/projects/</guid>
+      <description>&lt;h1 id=&#34;previous&#34;&gt;Previous&lt;/h1&gt;
+&lt;h2 id=&#34;axiom-data-sciencehttpswwwaxiomdatasciencecom&#34;&gt;&lt;a href=&#34;https://www.axiomdatascience.com&#34;&gt;Axiom Data Science&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://huggingface.co/spaces/axds/classify-fish-sounds/tree/main&#34;&gt;Detect and Classify Grouper Sounds&lt;/a&gt;: Detect and classify fish sounds from passive acoustic recordings using CNNs.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://spillanddrift.srv.axds.co&#34;&gt;Bering Sea Drift and Spill Vessel&lt;/a&gt;: Estimate oil spill risk to Alaskan shores from gounded vessels.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://s2s.srv.axds.co&#34;&gt;S2S - Sea Ice Guidance&lt;/a&gt;:  Provide statistcally generated probabilistic sea ice guidance for the three-week to seasonal time scale.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://osra.axds.co&#34;&gt;Arctic Oil Spill Risk Assessment&lt;/a&gt;: Provide estimates of risk to areas used for subsistance gathering from small &amp;ldquo;operational&amp;rdquo; oil spills.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ifcb.caloos.org/dashboard&#34;&gt;IFCB&lt;/a&gt;: Develop classifiers and data pipelines for IFCB instrumentation to classify and derived statistics about observed harmful algal bloom species of interest.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;nsf-center-for-coastal-margin-observation-and-predictionhttpwwwstccmoporg&#34;&gt;&lt;a href=&#34;http://www.stccmop.org&#34;&gt;NSF Center for Coastal Margin Observation and Prediction&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed, optimized, and applied a distributed parallel numerical model to study coastal and estuarine physics, aquatic light environment, and sediment dynamics as part of my PhD work.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://jesse-lopez.com/about/</link>
+      <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://jesse-lopez.com/about/</guid>
+      <description>&lt;p&gt;I previously worked at &lt;a href=&#34;https://axiomdatascience.com&#34;&gt;Axiom Data Science&lt;/a&gt; as a Computational Science.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve also written a dissertation on sediment dynamics, estuarine physics, and the aquatic light environment of the Columbia River estuary, taught intro to computer science for engineering undergrads, taught high school and middle school math as a member of AmeriCorps, fixed arcade video games, tested multimode lasers, and studied history.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
