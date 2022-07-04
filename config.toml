@@ -1,0 +1,34 @@
+baseURL = 'http://jesse-lopez.com/'
+languageCode = 'en-us'
+title = 'Jesse Lopez'
+theme = "KeepIt"
+
+[Permalinks]
+posts = "/:year:filename/"
+
+[menu]
+    [[menu.main]]
+        name = "Projects"
+        url = "/projects"
+        weight = 2
+
+    [[menu.main]]
+        name = "About"
+        url = "/about"
+        weight = 1
+
+[params.share]
+    Twitter = true
+    Linkedin = true
+
+[params.social]
+    GitHub = "yosoyjay"
+    Linkedin = "yosoyjay"
+    Twitter = "_yosoyjay"
+
+[params]
+    since = 2010
+    author = "Jesse Lopez"
+
+[params.gravatar]
+    email = "yosoyjay@gmail.com"

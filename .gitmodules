@@ -1,0 +1,9 @@
+[submodule "themes/hermit"]
+	path = themes/hermit
+	url = https://github.com/Track3/hermit.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/KeepIt"]
+	path = themes/KeepIt
+	url = https://github.com/Fastbyte01/KeepIt.git
