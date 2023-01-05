@@ -17,4 +17,4 @@ draft: false
 
 
 ## [NSF Center for Coastal Margin Observation and Prediction](http://www.stccmop.org)
-- Developed, optimized, and applied a distributed parallel numerical model to study coastal and estuarine physics, aquatic light environment, and sediment dynamics as part of my PhD work.
+- Developed, optimized, and applied a distributed, parallel numerical model validated by in-situ observations to study coastal and estuarine physics, aquatic light environments, and sediment dynamics as part of my PhD work.
